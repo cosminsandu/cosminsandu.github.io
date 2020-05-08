@@ -15,3 +15,9 @@
     - [HeidiSQL](https://www.heidisql.com/) - lots of crash but nice session manager for lots of connections
  - for *ssh client*
     - [MobaXterm](https://mobaxterm.mobatek.net/)
+
+# apps used almost every day
+ - [Google suit](https://gsuite.google.com/) most used: Gmail, Calendar, Drive
+ - [Feedly](https://feedly.com/) a RSS Feed Reader with 115 sources 
+ - [Google news](https://news.google.com/) news aggregator
+ 
