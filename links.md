@@ -21,3 +21,8 @@
  - [Feedly](https://feedly.com/) a RSS Feed Reader with 115 sources 
  - [Google news](https://news.google.com/) news aggregator
  
+# learning
+ - [getAbstract](https://www.getabstract.com/) books summarised (also with audio)
+ - [bookster](http://bookster.ro/) - bibliotecă publică modernă
+ - [my Academy](https://learn.myacademy.io/) 
+ - [Symfony casts](https://symfonycasts.com/) 
