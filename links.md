@@ -17,7 +17,7 @@
     - [MobaXterm](https://mobaxterm.mobatek.net/)
 
 # apps used almost every day
- - [Google suit](https://gsuite.google.com/) most used: Gmail, Calendar, Drive
+ - [Google suite](https://gsuite.google.com/) most used: Gmail, Calendar, Drive
  - [Feedly](https://feedly.com/) a RSS Feed Reader with 115 sources 
  - [Google news](https://news.google.com/) news aggregator
  
