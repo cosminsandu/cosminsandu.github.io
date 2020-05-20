@@ -4,8 +4,9 @@
  - [website](http://cosminsandu.ro/)
  - [facebook](https://www.facebook.com/sandu.cosmin.mihai)
  - [github](https://github.com/cosminsandu) & [bitbucket](https://bitbucket.org/cosminsandu/)
- - [twitter](https://twitter.com/sanducosmin) 
  - [linkedin](https://www.linkedin.com/in/sanducosminmihai/)
+ - [symfony connect](https://connect.symfony.com/profile/cosminsandu)
+ - [twitter](https://twitter.com/sanducosmin) 
 
 # software development tools on windows
  - for *php*:
