@@ -1,6 +1,9 @@
 # Cosmin Sandu
 
 ## Current project
-[SmartValue](https://www.smartvalue.io/) - exclusive developers of Newpharma, Belgium's 1st online pharmacy and winner of many e-commerce awards.
+
+I'm a software engineer/developer in Romania.
+
+Currently, I'm working as a Software Engineer (Freelancer).
 
 

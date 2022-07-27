@@ -8,7 +8,7 @@
  - [symfony connect](https://connect.symfony.com/profile/cosminsandu)
  - [twitter](https://twitter.com/sanducosmin) 
 
-# software development tools on windows
+# software development tools on Windows
  - for *php*:
     - [PhpStorm](https://www.jetbrains.com/phpstorm/) best buy
  - for *database GUI* : 
